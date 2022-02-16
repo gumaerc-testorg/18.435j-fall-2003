@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-435j-quantum-computation-fall-2003/51285c547a8c53a0ec7bd5cdf44e5052_ps2sol.pdf
+file: /media/courses/18-435j-quantum-computation-fall-2003/51285c547a8c53a0ec7bd5cdf44e5052_ps2sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps2sol.pdf
 uid: 51285c54-7a8c-53a0-ec7b-d5cdf44e5052

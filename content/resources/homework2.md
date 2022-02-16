@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-435j-quantum-computation-fall-2003/9b77563da2463bab99e5c76b46f5bd4c_homework2.pdf
+file: /media/courses/18-435j-quantum-computation-fall-2003/9b77563da2463bab99e5c76b46f5bd4c_homework2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: homework2.pdf
 uid: 9b77563d-a246-3bab-99e5-c76b46f5bd4c
