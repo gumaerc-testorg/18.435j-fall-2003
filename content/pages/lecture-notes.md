@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains 23 lecture notes for the lecture sessions taught
+  in class.The students in this class scribed the lecture notes. Scribe notes are
+  used with permission.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -45,7 +48,7 @@ Introduction and Overview
 Basics of Quantum Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec02)) (Courtesy of Vitaly Feldman. Used with permission.)
+({{% resource_link c1095b49-6b36-4b56-aaa0-cbb2d725234a "PDF" %}}) (Courtesy of Vitaly Feldman. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +72,7 @@ More Basics of Quantum Mechanics
 Classical Computation Models and Quantum Gates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec04)) (Courtesy of Moses Liskov. Used with permission.)
+({{% resource_link 770081c0-a026-f333-da47-adf07de05172 "PDF" %}}) (Courtesy of Moses Liskov. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +84,7 @@ Classical Computation Models and Quantum Gates
 Quantum Circuits and a Simple Quantum Algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec05)) (Courtesy of Dion Harmon. Used with permission.)
+({{% resource_link d43f1dff-422e-9519-bfab-3d63a339a1a4 "PDF" %}}) (Courtesy of Dion Harmon. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +156,7 @@ Grover's search algorithm
 Applications of Grover's Search Algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec11)) (Courtesy of Yuan-Chung Cheng. Used with permission.)
+({{% resource_link 88bfbfb6-232f-d0ef-d0c3-07d07ce96cc7 "PDF" %}}) (Courtesy of Yuan-Chung Cheng. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +180,7 @@ Superdense Coding and Quantum Teleportation
 Quantum Computation Models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec13)) (Courtesy of Eric Fellheimer. Used with permission.)
+({{% resource_link d49b06b6-1dc6-68e1-33aa-12cb58146459 "PDF" %}}) (Courtesy of Eric Fellheimer. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +192,7 @@ Quantum Computation Models
 Cluster States
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec14)) (Courtesy of Ilia Mirkin. Used with permission.)
+({{% resource_link 17936fff-47ad-c211-7ae8-19eeec8cdb1c "PDF" %}}) (Courtesy of Ilia Mirkin. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +216,7 @@ More on Computing with Cluster States
 Quantum Error Correction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec16)) (Courtesy of Dah-Yoh Lim. Used with permission.)
+({{% resource_link 91bddd9a-25a3-90ed-70ba-cc5f80f6c23a "PDF" %}}) (Courtesy of Dah-Yoh Lim. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +252,7 @@ More on Quantum Mechanics
 Guest Lecture by Isaac Chuang on Implementations of Quantum Computing: How to Build your Own Quantum Computer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec19)) (Courtesy of Fen Zhao. Used with permission.)
+({{% resource_link c95a265d-c90e-89f2-323d-84be985fd322 "PDF" %}}) (Courtesy of Fen Zhao. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +300,7 @@ Quantum Cryptography
 Fault-Tolerant Quantum Computation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/qc_lec23)) (Courtesy of Jonathan Hodges. Used with permission.)
+({{% resource_link 01e4b2ff-c638-0061-eb0e-47822d7813de "PDF" %}}) (Courtesy of Jonathan Hodges. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
