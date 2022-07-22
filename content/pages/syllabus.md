@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains introduction to the theory and practice of quantum
+  computation. It also includes gradings for homework, midterm and final exam. It
+  contains citation for textbooks for further references.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5beee33e-d69d-b469-a4a7-b836781fa9c3
 ---

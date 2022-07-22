@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture topics for 23 lectures which were taught
+  in class. It also contains due dates for problem sets.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d56b6e87-3f28-82fa-dd55-252ba7fcdfa7
 ---
