@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/c1095b496b364b56aaa0cbb2d72
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: qc_lec02.pdf
 uid: c1095b49-6b36-4b56-aaa0-cbb2d725234a
 ---
 Summary of topics and problems covered in the lecture.
-

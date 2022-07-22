@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/51285c547a8c53a0ec7bd5cdf44
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2sol.pdf
 uid: 51285c54-7a8c-53a0-ec7b-d5cdf44e5052
 ---
 Problem set solution.
-

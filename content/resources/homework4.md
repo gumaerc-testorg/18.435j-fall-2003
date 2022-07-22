@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/b4da74f458b8e8937d4346dc3f7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework4.pdf
 uid: b4da74f4-58b8-e893-7d43-46dc3f706bd1
 ---
 Problem set.
-

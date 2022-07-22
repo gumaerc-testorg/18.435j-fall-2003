@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/8b4b3bfd5f3adb40eb57ab07203
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7sol.pdf
 uid: 8b4b3bfd-5f3a-db40-eb57-ab07203c35ce
 ---
 This resource contains solutions for problem set 7.
-

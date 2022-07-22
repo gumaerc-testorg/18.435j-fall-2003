@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/75ad9c36f5fcce27ae0cb0889e9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solutions5.pdf
 uid: 75ad9c36-f5fc-ce27-ae0c-b0889e9787b3
 ---
 Problem set solution.
-

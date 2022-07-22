@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/20f6a1dcd51986e337e3474584e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps8.pdf
 uid: 20f6a1dc-d519-86e3-37e3-474584ee3c62
 ---
 This resource contains problem set 8 which deals with 3 problems.
-

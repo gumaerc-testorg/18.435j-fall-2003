@@ -5,6 +5,7 @@ file: /courses/18-435j-quantum-computation-fall-2003/e91c1d01d7b8189397211831f8b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1_sol.pdf
 uid: e91c1d01-d7b8-1893-9721-1831f8b16670
 ---
 Solutions to quiz problems.
-
