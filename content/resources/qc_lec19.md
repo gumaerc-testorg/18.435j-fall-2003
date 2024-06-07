@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of topics and problems covered in the lecture.
 file: /courses/18-435j-quantum-computation-fall-2003/c95a265dc90e89f2323d84be985fd322_qc_lec19.pdf
+file_size: 127175
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
