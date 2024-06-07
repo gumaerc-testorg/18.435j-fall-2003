@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource deals with midterm exam.
 file: /courses/18-435j-quantum-computation-fall-2003/9fc93f31b1e8e859465f9be795cbeaf0_midterm.pdf
+file_size: 100801
 file_type: application/pdf
 learning_resource_types:
 - Exams
