@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/18-435j-quantum-computation-fall-2003/017663e185e0d7b215724794fe14f295_ps5.pdf
+file_size: 96200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
