@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of topics and problems covered in the lecture.
-file: /courses/18-435j-quantum-computation-fall-2003/d49b06b61dc668e133aa12cb58146459_qc_lec13.pdf
+file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/d49b06b61dc668e133aa12cb58146459_qc_lec13.pdf
 file_size: 22351
 file_type: application/pdf
 learning_resource_types:
