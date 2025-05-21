@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for problem set 7.
-file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/8b4b3bfd5f3adb40eb57ab07203c35ce_ps7sol.pdf
+file: /courses/18-435j-quantum-computation-fall-2003/8b4b3bfd5f3adb40eb57ab07203c35ce_ps7sol.pdf
 file_size: 140517
 file_type: application/pdf
 learning_resource_types:

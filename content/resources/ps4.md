@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set 4 which deals with 8 problems.
-file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/ed9af8c238e3921606d928e976073e25_ps4.pdf
+file: /courses/18-435j-quantum-computation-fall-2003/ed9af8c238e3921606d928e976073e25_ps4.pdf
 file_size: 120531
 file_type: application/pdf
 learning_resource_types:
