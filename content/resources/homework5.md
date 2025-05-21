@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/7faed2145201057a06f502cce9872d14_homework5.pdf
+file: /courses/18-435j-quantum-computation-fall-2003/7faed2145201057a06f502cce9872d14_homework5.pdf
 file_size: 65680
 file_type: application/pdf
 learning_resource_types:

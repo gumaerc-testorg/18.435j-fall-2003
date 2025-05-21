@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of midterm exam.
-file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/719816e02927468e65b893567cb45416_midtermsol.pdf
+file: /courses/18-435j-quantum-computation-fall-2003/719816e02927468e65b893567cb45416_midtermsol.pdf
 file_size: 144798
 file_type: application/pdf
 learning_resource_types:
