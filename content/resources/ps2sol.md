@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solution.
-file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/51285c547a8c53a0ec7bd5cdf44e5052_ps2sol.pdf
+file: /courses/18-435j-quantum-computation-fall-2003/51285c547a8c53a0ec7bd5cdf44e5052_ps2sol.pdf
 file_size: 189168
 file_type: application/pdf
 learning_resource_types:

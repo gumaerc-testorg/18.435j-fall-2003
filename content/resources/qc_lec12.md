@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource deals with explaination on superdense coding and quantum
   teleportation.
-file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/4f97e39d2509d075121823e6b999455c_qc_lec12.pdf
+file: /courses/18-435j-quantum-computation-fall-2003/4f97e39d2509d075121823e6b999455c_qc_lec12.pdf
 file_size: 159162
 file_type: application/pdf
 learning_resource_types:
