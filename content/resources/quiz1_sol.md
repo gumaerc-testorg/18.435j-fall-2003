@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to quiz problems.
-file: /courses/18-435j-quantum-computation-fall-2003/e91c1d01d7b8189397211831f8b16670_quiz1_sol.pdf
+file: /ol-ocw-studio-app/courses/18-435j-quantum-computation-fall-2003/e91c1d01d7b8189397211831f8b16670_quiz1_sol.pdf
 file_size: 145957
 file_type: application/pdf
 learning_resource_types:
