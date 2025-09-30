@@ -81,6 +81,6 @@ Textbooks
 
 Nielsen, Michael A., and Isaac L. Chuang. _Quantum Computation and Quantum Information._ Cambridge, UK: Cambridge University Press, September 2000. ISBN: 9780521635035.
 
-Preskill, J. [Notes on Quantum Computation.](https://www.researchgate.net/publication/238451035_Lecture_Notes_for_Physics_219_Quantum_Computation)
+Preskill, J. {{% resource_link "c3e7e441-f75b-4d4c-aca7-fb1ab14fe1ec" "Notes on Quantum Computation." %}}
 
 Peres, Asher. _Quantum Theory: Concepts and Methods._ New York, NY: Springer, 1993. ISBN: 9780792325499.
