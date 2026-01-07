@@ -190,7 +190,7 @@ Quantum Computation Models
 Cluster States
 {{< tdclose >}}
 {{< tdopen >}}
-This material (some of it presented differently) can be found in [Measurement-based quantum computation with cluster states](http://dx.doi.org/10.1103/PhysRevA.68.022312) by R. Raussendorf, D.E. Browne, H.J. Briegel.
+This material (some of it presented differently) can be found in {{% resource_link "eb0bf38b-bc23-4939-8b33-2e84aa5f2879" "Measurement-based quantum computation with cluster states" %}} by R. Raussendorf, D.E. Browne, H.J. Briegel.
 {{< tdclose >}}
 
 {{< trclose >}}
